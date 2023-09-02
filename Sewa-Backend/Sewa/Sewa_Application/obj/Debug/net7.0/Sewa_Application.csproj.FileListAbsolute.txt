@@ -1,0 +1,15 @@
+C:\Personal\assigment\Sewa\Sewa_Application\bin\Debug\net7.0\Sewa_Application.deps.json
+C:\Personal\assigment\Sewa\Sewa_Application\bin\Debug\net7.0\Sewa_Application.dll
+C:\Personal\assigment\Sewa\Sewa_Application\bin\Debug\net7.0\Sewa_Application.pdb
+C:\Personal\assigment\Sewa\Sewa_Application\bin\Debug\net7.0\Sewa_Domain.dll
+C:\Personal\assigment\Sewa\Sewa_Application\bin\Debug\net7.0\Sewa_Domain.pdb
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.csproj.AssemblyReference.cache
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.AssemblyInfoInputs.cache
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.AssemblyInfo.cs
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.csproj.CoreCompileInputs.cache
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.csproj.CopyComplete
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.dll
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\refint\Sewa_Application.dll
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\Sewa_Application.pdb
+C:\Personal\assigment\Sewa\Sewa_Application\obj\Debug\net7.0\ref\Sewa_Application.dll
